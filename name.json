@@ -1,0 +1,11 @@
+{
+  "background_color": "hsv(0, 0%, 0%)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Subbuu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Subbuu",
+  "start_url": "/",
+  "theme_color": "hsv(0, 0%, 0%)"
+}
